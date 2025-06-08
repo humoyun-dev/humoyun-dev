@@ -1,53 +1,92 @@
-<h1 align="center">Hi, I'm Humoyunbek 👋</h1>
-
+<h1 align="center">Assalamu alaykum, I'm Humoyunbek Tursunniyazov 👨‍💻</h1>
 <p align="center">
-  <b>A passionate Frontend Developer from Uzbekistan</b> <br/>
-  <i>Building modern, responsive, and user-focused web applications</i>
+  🌐 Frontend Developer | 🧠 Lifelong Learner | 📍 Tashkent, Uzbekistan
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🧠 I’m a self-taught **Full-stack Developer**, focused mainly on **Frontend Development**
-- 🚀 Currently working on personal projects and sharpening my skills in **React**, **Next.js**, and **Node.js**
-- 🎓 I’m finishing my general secondary education at School No. 29 (2013–2025)
-- 🌱 Actively learning **TypeScript**, **Zustand**, and advanced React architecture
-- 📫 Reach me at: **humoyunbektursunniyazov@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-#### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff)
-
-#### State Management & Tools
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff)
-![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat&logo=zustand&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+<div align="center">
+  <a href="mailto:humoyunbektursunniyazov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/humoyun-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/humoyun-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 🧾 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humoyun-dev&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+```yaml
+name: Humoyunbek Tursunniyazov
+age: 17
+location: Tashkent, Uzbekistan
+education: School No.29 (2013–2025)
+position: Frontend Developer
+currently_learning: TypeScript, Zustand, Clean Architecture
+open_to_work: true
+````
+
+---
+
+### 🛠 Tech Stack
+
+#### 🚀 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+
+#### 🧩 State Management
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat\&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000?style=flat\&logo=zustand\&logoColor=white)
+
+#### 🧪 Backend & DB
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
+
+#### ⚒ Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=humoyun-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=humoyun-dev&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humoyun-dev&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</div>
 
 ---
 
-### 🔗 Connect with Me
+### 📁 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-humoyun--dev-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/humoyun-dev)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:humoyunbektursunniyazov@gmail.com)
+Check out my repositories and personal projects here:
+👉 [github.com/humoyun-dev](https://github.com/humoyun-dev)
 
 ---
+
+### 🌍 Languages
+
+* 🇺🇿 Uzbek — Native
+* 🇺🇸 English — Intermediate
+* 🇷🇺 Russian — Beginner
+
+---
+
+### 🙋‍♂️ Let's Connect
+
+I’m always open to collaboration, internships, or freelance opportunities. Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/humoyun-dev).

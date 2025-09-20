@@ -21,7 +21,7 @@
 
 ```yaml
 name: Humoyunbek Tursunniyazov
-age: 17
+age: 18
 location: Tashkent, Uzbekistan
 education: School No.29 (2013–2025)
 position: Frontend Developer
